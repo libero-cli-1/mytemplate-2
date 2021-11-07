@@ -1,6 +1,7 @@
 {
   "private": "<%=private%>",
   "version": "1.0.2",
+  "scripts": {},
   "name": "test",
   "author": "<%=author%>",
   "description": "<%=description%>",
